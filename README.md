@@ -1,2 +1,2 @@
 # RocketMan
-Fluffy Bird fangame made with pygame
+>Fluffy Bird fangame made with pygame
